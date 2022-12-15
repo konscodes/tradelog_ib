@@ -1,3 +1,5 @@
+'''Test for connectivity
+'''
 # Import EClient for outgoing requests and EWrapper for incoming messages
 from ibapi.client import EClient
 from ibapi.wrapper import EWrapper
